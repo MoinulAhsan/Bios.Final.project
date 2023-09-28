@@ -1,16 +1,17 @@
-
 #' create different types of plots
 #'
 #' @param data data frame
 #' @param plot_type type of the plot you want
 #' @param x column name of the data
 #' @param y column name of the data
+#'
 #' @description
 #' Function to create different types of plots
 #' @return a scatter plot or residual plot, or histogram or qq plot
 #' @export
-#'
-# Function to create different types of plots
+
+
+
 create_plot <- function(data, plot_type,x,y) {
   if (plot_type == "scatter") {
     return(

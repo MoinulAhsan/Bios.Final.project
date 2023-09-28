@@ -4,6 +4,7 @@
 #' @param x_var column name of the data
 #' @param fill_var column name of the data
 #' @param x_label text as character
+#'
 #' @description
 #' Create a boxplot
 #' @return a boxplot

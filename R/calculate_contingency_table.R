@@ -4,6 +4,7 @@
 #' @param data data frame
 #' @param var1 column name of the data
 #' @param var2 column name of the data
+#'
 #' @description
 #' store and return a list of contingency tables
 #' @return a list

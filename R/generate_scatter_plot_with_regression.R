@@ -3,6 +3,7 @@
 #' @param data data frame
 #' @param x_var column name of the data
 #' @param y_var column name of the data
+#'
 #' @description
 #' scatter plot with linear regression
 #' @return a scatter plot

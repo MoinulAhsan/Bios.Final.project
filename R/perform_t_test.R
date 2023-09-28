@@ -6,6 +6,7 @@
 #' @param group1 level of a column
 #' @param group2 level of a column
 #' @param alternative type of hypothesis
+#'
 #' @description
 #' Compute a t test
 #' @return summary of t test
